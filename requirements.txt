@@ -1,0 +1,6 @@
+grpcio==1.46.3
+grpcio-tools==1.46.3
+protobuf==3.20.1
+protobuf-to-dict==0.2.8
+python-dateutil==2.8.2
+six==1.16.0
